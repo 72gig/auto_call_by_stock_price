@@ -1,0 +1,44 @@
+
+[
+    {
+    "//_comment" : "this is a example for how to use",
+    "stock": "4 numbers for int type, this need input stock code",
+    "use_date": "mon_day, ignored if different with today",
+    "method": "lost or many",
+    "reload": "yes or no, if yes that openPrice need higher than up_line and down_line",
+    "up_line": "numbers for float type",
+    "down_line": "numbers for float type"
+    }
+    ,
+    {"stock": 3294,
+    "use_date": "1_9",
+    "method": "lost",
+    "reload": "yes",
+    "up_line": 35.7,
+    "down_line":35.4 
+    }
+    ,
+    {"stock": 3645,
+    "use_date": "1_9",
+    "method": "lost",
+    "reload": "no",
+    "up_line": 64.7,
+    "down_line":64.6 
+    }
+    ,
+    {"stock": 1569,
+    "use_date": "1_9",
+    "method": "lost",
+    "reload": "no",
+    "up_line": 54,
+    "down_line":53.4 
+    }
+    ,
+    {"stock": 2363,
+    "use_date": "1_9",
+    "method": "lost",
+    "reload": "no",
+    "up_line": 67.8,
+    "down_line":67.4 
+    }
+]

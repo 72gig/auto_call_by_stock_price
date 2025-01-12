@@ -1,0 +1,9 @@
+certifi==2024.12.14
+charset-normalizer==3.4.1
+fugle-marketdata==2.3.0
+idna==3.10
+pyee==9.1.1
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.3.0
+websocket-client==1.8.0
